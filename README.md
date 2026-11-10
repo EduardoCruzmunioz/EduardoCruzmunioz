@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/educruzm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://eduardocruzdev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio_Web-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/educruzm" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://eduardocruzdev.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio_Web-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:educruzm2004@gmail.com"><img src="https://img.shields.io/badge/Email_Directo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/EduardoCruzmunioz"><img src="https://img.shields.io/badge/Disponibilidad-Abierto_a_Proyectos-brightgreen?style=for-the-badge" alt="Disponibilidad" /></a>
 </p>
@@ -63,7 +63,7 @@
         <li>Arquitectura de islas interactivas con React e hidratación parcial.</li>
         <li>Diseño moderno y animaciones fluidas con Framer Motion.</li>
       </ul>
-      <p align="center"><a href="https://github.com/EduardoCruzmunioz/portfolio"><b>📦 Explorar Código en GitHub</b></a></p>
+      <p align="center"><a href="https://github.com/EduardoCruzmunioz/portfolio"><b>📦 Ver Repositorio</b></a> &nbsp;•&nbsp; <a href="https://eduardocruzdev.netlify.app/" target="_blank" rel="noopener noreferrer"><b>🚀 Visitar Web en Vivo</b></a></p>
     </td>
   </tr>
   <tr>
