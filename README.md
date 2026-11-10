@@ -63,7 +63,7 @@
         <li>Arquitectura de islas interactivas con React e hidratación parcial.</li>
         <li>Diseño moderno y animaciones fluidas con Framer Motion.</li>
       </ul>
-      <p align="center"><a href="https://github.com/EduardoCruzmunioz/portfolio"><b>📦 Ver Repositorio</b></a> &nbsp;•&nbsp; <a href="https://eduardocruzdev.netlify.app/" target="_blank" rel="noopener noreferrer"><b>🚀 Visitar Web en Vivo</b></a></p>
+      <p align="center"><a href="https://github.com/EduardoCruzmunioz/portfolio"><b>📦 Ver Repositorio</b></a> &nbsp;•&nbsp; <a href="https://eduardocruzdev.netlify.app/" target="_blank" rel="noopener noreferrer"><b>🚀 Visitar Web en Vivo ↗</b></a></p>
     </td>
   </tr>
   <tr>
