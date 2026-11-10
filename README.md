@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/educruzm" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/eduardo-cruz-mu%C3%B1oz2202/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://eduardocruzdev.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio_Web-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:educruzm2004@gmail.com"><img src="https://img.shields.io/badge/Email_Directo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/EduardoCruzmunioz"><img src="https://img.shields.io/badge/Disponibilidad-Abierto_a_Proyectos-brightgreen?style=for-the-badge" alt="Disponibilidad" /></a>
