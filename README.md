@@ -70,8 +70,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoCruzmunioz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCruzmunioz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardoCruzmunioz&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Estadísticas de GitHub de Eduardo Cruz" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardoCruzmunioz&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Lenguajes más usados por Eduardo Cruz" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=EduardoCruzmunioz&theme=tokyonight&hide_border=true" width="98%" alt="Racha de contribuciones" />
 </div>
 
 ---
